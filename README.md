@@ -15,7 +15,7 @@ Here is an approach towards a few-shot model for predicting property attributes 
 
 Constructed a rich attribute dataset by crawling property listing websites. The crawler captured both images and the attributes of interest.  In total 18,790 listings were obtained along with 350,000 images.
 
-![Screenshot](Rooms.png)
+![Screenshot](Rooms.PNG)
 
 ## Resnet Model with Pytorch and fastai
 
@@ -31,15 +31,15 @@ Projects in higher dimensional space embedding
 
 ![Screenshot](Projections.PNG)
 
-![Screenshot](Kitchen.png)
+![Screenshot](Kitchen.PNG)
 
-![Screenshot](Fireplace.png)
+![Screenshot](Fireplace.PNG)
 
 
 ## State of the art comaparison
 
 To evaluate a clustering solution comparing This model’s silhouette score against ImageNet. The results show that our silhouette score is significantly greater than ImageNet per t-test results on k=5 K-means clusters Silhouette score. Thus, our model produces similar clusters more consistently than ImageNet-ResNet.
 
-![Screenshot](Result.png)
+![Screenshot](Result.PNG)
 
-![Screenshot](Model.png)
+![Screenshot](Model.PNG)
