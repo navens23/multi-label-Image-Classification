@@ -29,7 +29,9 @@ By increasing the network capacity to a ResNet-50, 98% final accuracy was achiev
 Projects in higher dimensional space embedding
 
 ![Screenshot](Projections.png)
+
 ![Screenshot](Kitchen.png)
+
 ![Screenshot](Fireplace.png)
 
 
@@ -37,5 +39,8 @@ Projects in higher dimensional space embedding
 
 To evaluate a clustering solution comparing This model’s silhouette score against ImageNet. The results show that our silhouette score is significantly greater than ImageNet per t-test results on k=5 K-means clusters Silhouette score. Thus, our model produces similar clusters more consistently than ImageNet-ResNet.
 
-![Screenshot](Model.png)
 ![Screenshot](Result.png)
+
+![Screenshot](Model.png)
+
+
