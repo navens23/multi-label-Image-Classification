@@ -29,7 +29,7 @@ By increasing the network capacity to a ResNet-50, 98% final accuracy was achiev
 
 Projects in higher dimensional space embedding
 
-![Screenshot](Projections.png)
+![Screenshot](Projections.PNG)
 
 ![Screenshot](Kitchen.png)
 
